@@ -1,4 +1,5 @@
 %% test changes 2018/08/07 2312312
+%%DingCheng Zhang HAHAHA
 fontSize = 16;
 %%Load image
 [pname,adrname]=uigetfile('*.jpg');
